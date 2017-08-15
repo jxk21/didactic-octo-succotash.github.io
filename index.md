@@ -1,9 +1,7 @@
 
 
 hallo bild
-
-sdf
-[Link](http://www.oocities.org/siliconvalley/port/2653/) and ![Image](src)
+ ![Image](http://reocities.com/rodeodrive/4375/Music1.gif)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
