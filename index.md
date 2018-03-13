@@ -9,6 +9,8 @@
 
 ## ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif) visual artist ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif)
   
+<hr>
+
 ## on_tour
  - bulleted 
  - bulleted
