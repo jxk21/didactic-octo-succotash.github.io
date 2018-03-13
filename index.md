@@ -1,12 +1,10 @@
 # ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif)  /psychiatronics\ ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif)
 
-<centering>
+
                                                                                                            
 ![Image](https://68.media.tumblr.com/7c91b550bbaf6b25c1d4d4ab4b3edb85/tumblr_nu14j2cVLW1ud945wo2_75sq.gif)
 ![Image](https://68.media.tumblr.com/7c91b550bbaf6b25c1d4d4ab4b3edb85/tumblr_nu14j2cVLW1ud945wo2_75sq.gif)
 ![Image](https://68.media.tumblr.com/7c91b550bbaf6b25c1d4d4ab4b3edb85/tumblr_nu14j2cVLW1ud945wo2_75sq.gif)
-
-</centering>
 
 
 ## ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif) visual artist ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif)
