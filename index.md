@@ -19,7 +19,7 @@ Your browser does not support the audio element.
  
  
 [click here for very good portfolio, very good!](https://vimeo.com/psychiatronics/about "VIMEO cool Portfolio !")         
-
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 ![Image]https://68.media.tumblr.com/c5fa1f1c1a15f74a54abbcc11f320a6a/tumblr_nucain10qp1ud945wo1_100.gif
 
