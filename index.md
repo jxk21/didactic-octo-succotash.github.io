@@ -21,16 +21,6 @@ Your browser does not support the audio element.
 ![click here for very good portfolio, very good!](https://vimeo.com/psychiatronics/about "VIMEO cool Portfolio !")         
 
 
-
-<script>
-window.onclick = myFunction;
-
-function myFunction() {
-    document.getElementsByTagName("BODY")[0].style.backgroundColor = "yellow";
-}
-</script>
-
-
 ![Image]https://68.media.tumblr.com/c5fa1f1c1a15f74a54abbcc11f320a6a/tumblr_nucain10qp1ud945wo1_100.gif
 
 
@@ -40,10 +30,15 @@ function myFunction() {
 ![Image](https://68.media.tumblr.com/7c91b550bbaf6b25c1d4d4ab4b3edb85/tumblr_nu14j2cVLW1ud945wo2_75sq.gif)
 ![Image](https://68.media.tumblr.com/7c91b550bbaf6b25c1d4d4ab4b3edb85/tumblr_nu14j2cVLW1ud945wo2_75sq.gif)
 ![Image](https://68.media.tumblr.com/7c91b550bbaf6b25c1d4d4ab4b3edb85/tumblr_nu14j2cVLW1ud945wo2_75sq.gif)
+
 <hr>
 
-![Image](https://68.media.tumblr.com/b2610ab45c4f4f28b4545d46c1fbc33e/tumblr_nu6ffzFqOm1ud945wo1_400.gif)get it touch
 ![Image](https://68.media.tumblr.com/b2610ab45c4f4f28b4545d46c1fbc33e/tumblr_nu6ffzFqOm1ud945wo1_400.gif)
+
+#get it touch
+
+![Image](https://68.media.tumblr.com/b2610ab45c4f4f28b4545d46c1fbc33e/tumblr_nu6ffzFqOm1ud945wo1_400.gif)
+
 <hr>
 
 ![Image](https://68.media.tumblr.com/5882ddb2f1e0e6abe24e5ead00133094/tumblr_nv6xxpTX7p1ud945wo1_100.gif)
