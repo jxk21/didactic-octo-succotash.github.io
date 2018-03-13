@@ -4,7 +4,13 @@
 ## ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif) visual artist ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif)
   
 <hr>
+<audio controls>
+  <source src="https://archive.org/download/TetrisThemeMusic/Tetris.ogg" type="audio/ogg">
+  <source src="https://archive.org/download/TetrisThemeMusic/Tetris.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
+<hr>
 ## on_tour
  - bulleted 
  - bulleted
@@ -12,11 +18,7 @@
  
 [click here for very good portfolio, very good!](https://vimeo.com/psychiatronics/about "VIMEO cool Portfolio !")         
 
-<audio controls>
-  <source src="https://archive.org/download/TetrisThemeMusic/Tetris.ogg" type="audio/ogg">
-  <source src="https://archive.org/download/TetrisThemeMusic/Tetris.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+
 
 ![Image](https://68.media.tumblr.com/c5fa1f1c1a15f74a54abbcc11f320a6a/tumblr_nucain10qp1ud945wo1_100.gif)
 
