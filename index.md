@@ -1,9 +1,3 @@
-## /psychiatronics\ 
-
-##  /visual artist\ 
-
-<hr>
-<br>
 
 <audio controls>
   <source src="https://archive.org/download/TetrisThemeMusic/Tetris.ogg" type="audio/ogg">
@@ -20,6 +14,8 @@ Your browser does not support the audio element.
  - bulleted
  - bulleted
  
+<br>
+<hr>
  
 ## [click here for very good portfolio, very good!](https://vimeo.com/psychiatronics/about "VIMEO cool Portfolio !")         
 
