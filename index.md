@@ -22,6 +22,14 @@ Your browser does not support the audio element.
 
 
 
+<p onclick="myFunction(this, 'red')">![Image](https://68.media.tumblr.com/c5fa1f1c1a15f74a54abbcc11f320a6a/tumblr_nucain10qp1ud945wo1_100.gif)</p>
+
+<script>
+function myFunction(elmnt,clr) {
+    elmnt.style.color = clr;
+}
+</script>
+
 ![Image](https://68.media.tumblr.com/c5fa1f1c1a15f74a54abbcc11f320a6a/tumblr_nucain10qp1ud945wo1_100.gif)
 
 ![Image](https://68.media.tumblr.com/7c91b550bbaf6b25c1d4d4ab4b3edb85/tumblr_nu14j2cVLW1ud945wo2_75sq.gif)
