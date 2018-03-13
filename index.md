@@ -15,12 +15,15 @@ Your browser does not support the audio element.
 </audio>
 
 <hr>
-## on_tour
+### on_tour
  - bulleted 
+ - bulleted
+ - bulleted
+ - bulleted
  - bulleted
  
  
-[click here for very good portfolio, very good!](https://vimeo.com/psychiatronics/about "VIMEO cool Portfolio !")         
+## [click here for very good portfolio, very good!](https://vimeo.com/psychiatronics/about "VIMEO cool Portfolio !")         
 
 ![Image](https://68.media.tumblr.com/c5fa1f1c1a15f74a54abbcc11f320a6a/tumblr_nucain10qp1ud945wo1_100.gif)
 
