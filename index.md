@@ -10,7 +10,9 @@ Your browser does not support the audio element.
 # ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif) on_tour ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif)
 
 ### __2018__
-⋅⋅* Unordered sub-list. 
+ - bulleted
+ - bulleted
+ 
 ### __2017__
  - bulleted 
  - bulleted
@@ -21,7 +23,9 @@ Your browser does not support the audio element.
 <br>
 <hr>
  
+![Image](https://image.flaticon.com/icons/svg/38/38534.svg)
 ## [click here for very good portfolio, very good!](https://vimeo.com/psychiatronics/about "VIMEO cool Portfolio !")         
+![Image](https://image.flaticon.com/icons/svg/38/38534.svg)
 
 ![Image](https://68.media.tumblr.com/c5fa1f1c1a15f74a54abbcc11f320a6a/tumblr_nucain10qp1ud945wo1_100.gif)
 
@@ -37,7 +41,7 @@ Your browser does not support the audio element.
 
 ## get it touch
 
-[(https://68.media.tumblr.com/b2610ab45c4f4f28b4545d46c1fbc33e/tumblr_nu6ffzFqOm1ud945wo1_400.gif)] 
+![Image](https://68.media.tumblr.com/b2610ab45c4f4f28b4545d46c1fbc33e/tumblr_nu6ffzFqOm1ud945wo1_400.gif)
 
 <hr>
 ![Image](https://68.media.tumblr.com/5882ddb2f1e0e6abe24e5ead00133094/tumblr_nv6xxpTX7p1ud945wo1_100.gif)
