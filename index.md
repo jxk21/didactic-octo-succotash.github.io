@@ -14,7 +14,7 @@ Your browser does not support the audio element.
 (wroclaw, pl)
  - 01.09. 30 jahre goldener reiter (reitwein, de)
  - 20.04. urban spree (with <a href="https://soundcloud.com/10-mark-dj-team"> 10-mark-dj-team)</a>(berlin, de)
- - 22.03. das lokal (wroclaw, pl)
+ - 22.03. <a href="http://daslokal.pl/">das lokal</a> (with <a href="https://soundcloud.com/der-goldene-reiter">Der Goldene Reiter (Berlin)</a>) (wroclaw, pl)
  
 ### __2017__
  - 09.12. <a href="https://www.icanw.de/terminearchiv/nobel-peace-prize-party/">ican's nobel peace prize party</a>, menschmeier (berlin, de)
