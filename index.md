@@ -10,14 +10,14 @@ Your browser does not support the audio element.
 # ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif) on_tour ![Image](https://68.media.tumblr.com/cff73c14c344212ac0ab1bf176c94e1a/tumblr_nu6ey7jGa91ud945wo1_100.gif)
 
 ### __2018__
- - 06.10. Party like it's 2030 (with <a href="https://soundcloud.com/der-goldene-reiter"> Der Goldene Reiter </a> & <a href="https://soundcloud.com/drchimpanzee"> Dr. Chimpanzee (Berlin)</a>
+ - 06.10. Party like it's 2030 (with <a href="https://soundcloud.com/der-goldene-reiter"> Der Goldene Reiter (Berlin)</a> & <a href="https://soundcloud.com/drchimpanzee"> Dr. Chimpanzee (Berlin)</a>
 (wroclaw, pl)
  - 01.09. 30 jahre goldener reiter (reitwein, de)
  - 20.04. urban spree (with <a href="https://soundcloud.com/10-mark-dj-team"> 10-mark-dj-team)</a>(berlin, de)
  - 22.03. das lokal (wroclaw, pl)
  
 ### __2017__
- - 09.12. ican's nobel peace prize party, menschmeier (berlin, de)
+ - 09.12. <a href="https://www.icanw.de/terminearchiv/nobel-peace-prize-party/">ican's nobel peace prize party</a>, menschmeier (berlin, de)
  - 22.09. geburtstagsparty gone wild, zum flachbau (berlin, de)
 
 ### __2016__
